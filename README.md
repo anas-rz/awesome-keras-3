@@ -10,7 +10,7 @@ A collection of awesome things regarding the new multi-backend Keras.
 - [Performance Benchmarks](https://github.com/haifeng-jin/keras-benchmarks)
 
 ## Examples
-- [Examples](https://keras.io/examples)
+- [Keras Examples](https://keras.io/examples)
 
 ## Projects
 - [Natural Language Processing - NLP](https://keras.io/keras_nlp/) - Keras NLP
@@ -24,4 +24,6 @@ A collection of awesome things regarding the new multi-backend Keras.
 
 ## Videos/Tutorials
 
+## Language Models
+- [Gemma](https://ai.google.dev/gemma/docs/get_started)
 
