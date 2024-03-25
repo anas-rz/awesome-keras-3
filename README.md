@@ -7,7 +7,7 @@ Multi-backend models, projects, examples, etc in Keras 3.
 - [Official Documentation](https://keras.io/api/)
 
 ## Why Keras 3?
-- [Performance Benchmarks](https://github.com/haifeng-jin/keras-benchmarks)
+- [Performance Benchmarks](https://keras.io/getting_started/benchmarks/) [{Code}](https://github.com/haifeng-jin/keras-benchmarks)
 
 ## Examples
 - [Keras Examples](https://keras.io/examples)
