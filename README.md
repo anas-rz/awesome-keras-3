@@ -7,10 +7,9 @@ A collection of awesome things regarding the new multi-backend Keras.
 - [Official Documentation](https://keras.io/api/)
 
 ## Why Keras 3?
-- [Examples](https://keras.io/examples)
 
 ## Examples
-
+- [Examples](https://keras.io/examples)
 
 ## Projects
 
