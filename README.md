@@ -24,6 +24,7 @@ A collection of awesome things regarding the new multi-backend Keras.
 - [Keras 3.0: Everything You Need To Know](https://www.kdnuggets.com/2023/07/keras-30-everything-need-know.html)
 
 ## Videos/Tutorials
+- [Keras: Shortcut to AI mastery](https://youtu.be/0HcYOcFBQlk)
 
 ## Language Models
 - [Gemma](https://ai.google.dev/gemma/docs/get_started)
