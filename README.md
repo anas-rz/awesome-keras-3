@@ -13,7 +13,13 @@ A collection of awesome things regarding the new multi-backend Keras.
 - [Examples](https://keras.io/examples)
 
 ## Projects
+- [Natural Language Processing - NLP] (https://keras.io/keras_nlp/) - Keras NLP
+- [Computer Vision] (https://keras.io/keras_cv/) - Keras CV
+- [Basic Vision Transformers, and others] (https://github.com/anas-rz/k3im)
+- [Graph Neural Networks] (https://github.com/anas-rz/k3-node)
+- [Addons, metrics, losses] (https://github.com/anas-rz/k3-addons)
 
+  
 ## Blogs/Articles
 
 ## Videos/Tutorials
