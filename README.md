@@ -21,6 +21,7 @@ A collection of awesome things regarding the new multi-backend Keras.
 
   
 ## Blogs/Articles
+- [Keras 3.0: Everything You Need To Know](https://www.kdnuggets.com/2023/07/keras-30-everything-need-know.html)
 
 ## Videos/Tutorials
 
