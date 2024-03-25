@@ -2,4 +2,7 @@
 
 A collection of awesome things regarding the new multi-backend Keras.
 
-[Keras 3](https://github.com/keras-team/keras): Multi-backend deep learning framework, with support for JAX, TensorFlow, and PyTorch.
+[Keras 3](https://github.com/keras-team/keras) - Multi-backend deep learning framework, with support for JAX, TensorFlow, and PyTorch.
+
+- [Official Documentation](https://keras.io/api/)
+- 
