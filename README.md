@@ -7,6 +7,7 @@ A collection of awesome things regarding the new multi-backend Keras.
 - [Official Documentation](https://keras.io/api/)
 
 ## Why Keras 3?
+- [Performance Benchmarks](https://github.com/haifeng-jin/keras-benchmarks)
 
 ## Examples
 - [Examples](https://keras.io/examples)
